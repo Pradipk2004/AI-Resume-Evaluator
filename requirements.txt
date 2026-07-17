@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq
+pydantic
+python-dotenv
+pdfplumber
+python-docx
+pandas
+plotly
+reportlab
+PyPDF2
